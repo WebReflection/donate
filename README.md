@@ -9,11 +9,13 @@ Currently I'm making lots of front-end components, tools, Node.js libraries, web
 
 ## Monthly support
 
-[Pledging on Patreon](https://www.patreon.com/webreflection) (recurring, with perks for different tiers, you can cancel at any time)
+  * [Open Collective hyperHTML](https://opencollective.com/hyperHTML)
+  * [Open Collective document-register-element](https://opencollective.com/document-register-element)
+  * [Patreon](https://www.patreon.com/webreflection)
 
 ## One-time donation
 
-- [Donate via Paypal](https://www.paypal.me/webreflection)
+  * [Donate via Paypal](https://www.paypal.me/webreflection)
 
 ## Thanks
 
