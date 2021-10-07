@@ -10,7 +10,7 @@ Currently I'm making lots of front-end components, tools, Node.js libraries, web
 ## How to support
 
   * [Flattr](https://flattr.com/@WebReflection)
-  * [Open Collective hyperHTML](https://opencollective.com/hyperHTML)
+  * [Open Collective hyperHTML](https://opencollective.com/hyperhtml)
   * [Open Collective document-register-element](https://opencollective.com/document-register-element)
   * [Patreon](https://www.patreon.com/webreflection)
 
